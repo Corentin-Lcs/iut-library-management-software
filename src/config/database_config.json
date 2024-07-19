@@ -1,0 +1,7 @@
+{
+  "databaseHost": "localhost",
+  "databasePort": "3306",
+  "databaseUser": "root",
+  "databasePassword": "",
+  "databaseName": "deslibrary"
+}

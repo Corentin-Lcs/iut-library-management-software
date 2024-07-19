@@ -1,0 +1,11 @@
+{
+  "documentReservationServer": {
+    "port": 3000
+  },
+  "documentBorrowServer": {
+    "port": 4000
+  },
+  "documentReturnServer": {
+    "port": 5000
+  }
+}

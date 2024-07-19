@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ReservationService" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="application.clientuser.ClientStart" />
+    <module name="brette_soft" />
+    <option name="PROGRAM_PARAMETERS" value="4000" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="application.clientuser.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
